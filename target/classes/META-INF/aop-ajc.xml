@@ -1,0 +1,11 @@
+<aspectj>
+<aspects>
+<aspect name="com.sut.test.domain.Blabla_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.sut.test.domain.Blabla_Roo_Jpa_Entity"/>
+<aspect name="com.sut.test.domain.Blabla_Roo_Configurable"/>
+<aspect name="com.sut.test.domain.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.sut.test.domain.BlablaController_Roo_Controller"/>
+<aspect name="com.sut.test.domain.Blabla_Roo_ToString"/>
+</aspects>
+</aspectj>
+
